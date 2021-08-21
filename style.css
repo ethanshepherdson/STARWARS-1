@@ -1,0 +1,26 @@
+body {
+  font-family: 'STIX Two Math', serif;
+  background: #698a92;
+  color: white;
+  padding: 5px 75px 5px 75px;
+}
+
+#kids-pic {
+   height: auto;
+   width: 350px;
+}  
+.headline {
+  height: 115px;
+  width: 1535px;
+  /* margin: 30px 30px 0px 30px; */
+  text-align: centre;
+  font-size: 26px;
+}
+.bio {
+  height: 115px;
+  width: 651px;
+  margin: 0px;
+  position: absolute;
+  top: 590px;
+  left: 40px;
+}
